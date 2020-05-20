@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Viagens Constraint</string>
+    <string name="titulo_activity">Pacotes</string>
+    <string name="pais_brasil">Brasil</string>
+    <string name="titulo_especiais">Especiais</string>
+    <string name="identificacao_texto">Banner inicial dos pacotes</string>
 </resources>
